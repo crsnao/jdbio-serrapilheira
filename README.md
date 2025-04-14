@@ -4,12 +4,13 @@ Este repositório contém os dados do projeto de invenstigação desenvolvido no
 
 ## Estrutura do Repositório
 
-- `scripts/`: Contém os scripts responsáveis por realizar as análises e processamentos dos dados;
--    `main.R`: Script principal que realiza a análise das métricas de paisagem;
-- `output/`: Contém os resultados da análise, incluindo as métricas de paisagem calculadas e gráficos gerados;
--    **`figures/`**: Contém gráficos e figuras geradas a partir dos resultados analíticos, como histogramas, boxplots e outros tipos de visualização.
--    **`maps/`**: Contém os mapas temáticos resultantes da análise espacial, em formato PNG ou PDF.
--    **`tables/`**: Contém as tabelas de resultados com métricas calculadas, dados resumidos por zona, bairro ou outra unidade espacial.
+- `scripts/`: Contém os scripts responsáveis por realizar as análises e processamentos dos dados
+  - `main.R`: Script principal que realiza a análise das métricas de paisagem
+- `output/`: Os resultados da análise, incluindo as métricas de paisagem calculadas e gráficos gerados
+  - **`figures/`**: Gráficos e figuras do projeto, como histogramas, boxplots e outros tipos de visualização
+  - **`maps/`**: Arquivos vetoriais e rasters resultantes da análise espacial
+  - **`tables/`**: Tabelas de resultados com métricas calculadas, dados resumidos
+- `Docs/`: Outros documentos
 - `README.md`: Este arquivo
 
 ## Dados Utilizados
