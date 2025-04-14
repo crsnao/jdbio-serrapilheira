@@ -1,4 +1,4 @@
-# Análise das Paisagem de Manaus ----
+# Comparação da Paisagem com e sem os dados OSM em Manaus ----
 # Autor: Carson Silveira
 
 # Pacotes necessários
