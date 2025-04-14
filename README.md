@@ -7,9 +7,9 @@ Este repositório contém os dados do projeto de invenstigação desenvolvido no
 - `scripts/`: Contém os scripts responsáveis por realizar as análises e processamentos dos dados
   - `main.R`: Script principal que realiza a análise das métricas de paisagem
 - `output/`: Os resultados da análise, incluindo as métricas de paisagem calculadas e gráficos gerados
-  - **`figures/`**: Gráficos e figuras do projeto, como histogramas, boxplots e outros tipos de visualização
-  - **`maps/`**: Arquivos vetoriais e rasters resultantes da análise espacial
-  - **`tables/`**: Tabelas de resultados com métricas calculadas, dados resumidos
+  - `figures/`: Gráficos e figuras do projeto, como histogramas, boxplots e outros tipos de visualização
+  - `maps/`: Arquivos vetoriais e rasters resultantes da análise espacial
+  - `tables/`: Tabelas de resultados com métricas calculadas, dados resumidos
 - `Docs/`: Outros documentos
 - `README.md`: Este arquivo
 
