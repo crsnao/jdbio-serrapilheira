@@ -10,7 +10,7 @@ Este repositório contém os dados do projeto de invenstigação desenvolvido no
   - `figures/`: Gráficos e figuras do projeto, como histogramas, boxplots e outros tipos de visualização
   - `maps/`: Arquivos vetoriais e rasters resultantes da análise espacial
   - `tables/`: Tabelas de resultados com métricas calculadas, dados resumidos
-- `docs/`: Outros documentos
+- `docs/`: Outros documentos (ainda vou atualizar)
 - `README.md`: Este arquivo
 
 ## Dados Utilizados
