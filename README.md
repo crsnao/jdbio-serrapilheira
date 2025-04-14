@@ -15,7 +15,7 @@ Este projeto fez uso de uma base de dados de Cobertura de Arborização Urbana c
 
 - [UTB Dataset - GitHub](https://github.com/usuario/UTB-Dataset)
 
-Todos os inputs utilizados neste projeto estão disponíveis no seguinte link para download:
+Os arquivos de entrada utilizados nas análises deste projeto podem ser acessados e baixados através do seguinte link:
 
 - [Grupo de Suporte Científico e Reportagens - Nicoly Ambrosion](https://drive.google.com/drive/folders/1G3AtjNxgz4qDBg2yRQWulnaxNG9BKE4Z?usp=drive_link)
 
