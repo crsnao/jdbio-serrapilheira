@@ -5,9 +5,7 @@ Este repositório contém os dados do projeto de invenstigação desenvolvido no
 ## Estrutura do Repositório
 
 - `main.R`: Script principal que realiza a análise de métricas de paisagem. O script carrega dados espaciais, realiza o pré-processamento e calcula as métricas de paisagem.
-- `data/`: Pasta que contém os dados de entrada e saída do projeto.
-  - `input/`: Contém os dados brutos utilizados para a análise (por exemplo, arquivos raster e shapefiles).
-  - `output/`: Contém os resultados da análise, incluindo as métricas de paisagem calculadas e gráficos gerados.
+- `output/`: Contém os resultados da análise, incluindo as métricas de paisagem calculadas e gráficos gerados.
 - `README.md`: Este arquivo.
 
 ## Dados Utilizados
