@@ -17,7 +17,7 @@ Este repositório contém os dados do projeto de invenstigação desenvolvido no
 
 Este projeto fez uso de uma base de dados de Cobertura de Arborização Urbana chamada **UTB Dataset** desenvolvida por [Guo et al., (2021)](https://www.sciencedirect.com/science/article/pii/S0924271623000461). Os dados do UTB Dataset estão disponíveis publicamente no GitHub e podem ser acessados pelo seguinte link:
 
-- [UTB Dataset - GitHub](https://github.com/usuario/UTB-Dataset)
+- [UTB Dataset - GitHub]([https://github.com/usuario/UTB-Dataset](https://nkszjx.github.io/projects/UTB.html))
 
 Os arquivos de entrada utilizados nas análises deste projeto podem ser acessados e baixados através do seguinte link (ainda não ta completo):
 
