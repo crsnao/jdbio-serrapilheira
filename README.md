@@ -2,13 +2,13 @@
 
 Este repositório contém os dados do projeto de invenstigação desenvolvido no contexto do grupo de Suporte Cientifico às reportagens do Programa de Jornalismo de Dados e Biodiversidade do Serrapilheira. O objetivo principal deste projeto é analisar a relação entre cobertura arbórea, sensação térmica, saúde e políticas públicas para o meio ambiente, destacando as desigualdades socioeconômicas no acesso a espaços verdes (parques e praças) e comparando a situação de Manaus com outras cidades amazônicas. O script `main.R` realiza todo o processamento necessário, e os resultados gerados são armazenados em arquivos de saída para análise posterior.
 
-## Estrutura do Repositório está organizada por projeto de jornalista
+## Estrutura do Repositório
 
 - `Nicoly`: relação entre cobertura arbórea, sensação térmica, saúde e políticas públicas para o meio ambiente, destacando as desigualdades socioeconômicas em cidades amazônicas
 - `Samantha`: O impacto do agronegócio e expansão da soja no modo de vida e na biodiversidade de terras indígenas demarcadas em ilhas em Roraima
 - `Diego`: Aumento da mineração ilegal e do crime organizado na cidade de Tena, Equador, e em sua zona de influência, como um elemento determinante para o aumento da temperatura
 
-# Dentro de cada pasta estão incluidos as seguintes pastas
+### Dentro de cada pasta estão incluidos as seguintes pastas
 
 -  `scripts/`: Contém os scripts responsáveis por realizar as análises e processamentos dos dados
   - `main.R`: Script principal que realiza a análise das métricas de paisagem
