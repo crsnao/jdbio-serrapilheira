@@ -1,0 +1,1 @@
+A ideia nvestigar se o avanço do agronegócio, em especial a monocultura da soja, nessas áreas pode gerar impactos tanto para a preservação da biodiversidade quanto para os modos de vida das comunidades indígenas.
