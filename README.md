@@ -1,6 +1,6 @@
 # Jornalismo de Dados e Biodiversidade
 
-Este repositório contém os dados do projeto de invenstigação desenvolvido no contexto do grupo de Suporte Cientifico às reportagens do Programa de Jornalismo de Dados e Biodiversidade do Serrapilheira. O objetivo principal deste projeto é analisar a relação entre cobertura arbórea, sensação térmica, saúde e políticas públicas para o meio ambiente, destacando as desigualdades socioeconômicas no acesso a espaços verdes (parques e praças) e comparando a situação de Manaus com outras cidades amazônicas. O script `main.R` realiza todo o processamento necessário, e os resultados gerados são armazenados em arquivos de saída para análise posterior.
+Este repositório contém os dados do projeto de invenstigação desenvolvido no contexto do grupo de Suporte Cientifico às reportagens do Programa de Jornalismo de Dados e Biodiversidade do Serrapilheira
 
 ## Estrutura do Repositório para cada um dos jornalistas que trabalhei
 
