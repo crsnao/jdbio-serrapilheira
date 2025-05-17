@@ -1,3 +1,15 @@
+# ------------------------------------------------------------
+# Script: Cálculo de métricas de paisagem em zonas de buffer de TIs
+# Autor: CARSON SILVEIRA
+# Descrição: Este script carrega dados geoespaciais de uso e cobertura da terra
+#            (MapBiomas) e das Terras Indígenas (TIs) em Roraima, reprojeta os
+#            dados para o sistema SIRGAS2000/20S e calcula métricas de paisagem,
+#            especificamente a área total (TA), dentro das zonas de buffer das TIs
+#            para os anos de 1985 e 2023.
+# Data: 09 de maio de 2025
+# ------------------------------------------------------------
+
+
 # Carregamento de pacotes
 library(sf)
 library(terra)
