@@ -1,3 +1,7 @@
+# Análise Espacial e Socioeconômica da Cidade de Manaus ---
+# Análise feita para explorar as relações entre variáveis ambientais e socioeconômicas
+# Autor: Carson Silveira
+
 # Carrega pacotes necessários para manipulação de dados, leitura de arquivos e análise espacial
 library(dplyr)
 library(tidyr)
