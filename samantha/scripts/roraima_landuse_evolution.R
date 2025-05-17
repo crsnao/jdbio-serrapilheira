@@ -1,3 +1,14 @@
+# ------------------------------------------------------------
+# Script: Comparação do uso da terra em TIs e suas zonas de buffer (3k)
+# Autor: CARSON SILVEIRA
+# Descrição: Este script carrega, organiza e compara os dados de uso da terra
+#            dos anos de 1985 e 2023 dentro de Terras Indígenas (TIs) e suas
+#            respectivas zonas de buffer no estado de Roraima, utilizando dados
+#            do MapBiomas. Também gera um gráfico da variação no uso da terra.
+# Data: 07 de maio de 2025
+# ------------------------------------------------------------
+
+
 # Carrega pacotes necessários
 library(dplyr)
 library(ggplot2)
