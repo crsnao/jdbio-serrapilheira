@@ -4,13 +4,12 @@ A ideia nvestigar se o avanço do agronegócio, em especial a monocultura da soj
 
 ## Organização do diretório
 
-- `scripts/`: Contém os códigos em R utilizados para:
-  - preparação e limpeza dos dados,
-  - ajuste de modelos estatísticos (GLMs),
-  - avaliação de resíduos e diagnóstico dos modelos,
+- `scripts/` contém os códigos em R utilizados para:
+  - preparação e limpeza dos dados;
+  - ajuste de modelos estatísticos (GLMs);
+  - avaliação de resíduos e diagnóstico dos modelos;
   - geração de gráficos e tabelas.
 
-- `outputs/`: Armazena os resultados gerados pelos scripts, incluindo:
-  - visualizações gráficas,
-  - tabelas de resumo,
-  - objetos de modelos salvos (se aplicável).
+- `outputs/` armazena os resultados gerados pelos scripts, incluindo:
+  - visualizações gráficas;
+  - tabelas com resultados.
