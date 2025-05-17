@@ -1,3 +1,15 @@
+# ------------------------------------------------------------
+# Script: Mapeamento de UCs e TIs com buffers no estado de Roraima
+# Autor: CARSON SILVEIRA
+# Descrição: Este script carrega e processa dados geográficos de Unidades de
+#            Conservação (UCs) e Terras Indígenas (TIs) no estado de Roraima,
+#            utilizando o pacote `geobr`. O script corrige geometrias inválidas,
+#            faz recortes espaciais, reprojeta os dados para SIRGAS2000/UTM 20N
+#            e gera mapas com e sem buffers de 10 km em torno dessas áreas.
+# Data: 06 de maio de 2025
+# ------------------------------------------------------------
+
+
 # Carrega pacotes necessários
 library(sf)
 library(dplyr)
