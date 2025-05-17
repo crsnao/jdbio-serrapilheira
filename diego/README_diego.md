@@ -1,1 +1,0 @@
-A investigação jornalística sobre este caso pretende contribuir com argumentos focados no aumento da mineração ilegal e do crime organizado na cidade de Tena, Equador, e em sua zona de influência, como um elemento determinante na configuração dessas condições.
