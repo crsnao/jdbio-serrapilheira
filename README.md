@@ -6,7 +6,6 @@ Este repositório contém os dados do projeto de invenstigação desenvolvido no
 
 - `Nicoly`: relação entre cobertura arbórea, sensação térmica, saúde e políticas públicas para o meio ambiente, destacando as desigualdades socioeconômicas em cidades amazônicas
 - `Samantha`: O impacto do agronegócio e expansão da soja no modo de vida e na biodiversidade de terras indígenas demarcadas em ilhas em Roraima
-- `Diego`: Aumento da mineração ilegal e do crime organizado na cidade de Tena, Equador, e em sua zona de influência, como um elemento determinante para o aumento da temperatura
 
 ### Dentro de cada pasta estão incluidos as seguintes informações
 
