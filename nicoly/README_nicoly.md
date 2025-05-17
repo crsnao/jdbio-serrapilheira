@@ -9,13 +9,6 @@ Este projeto fez uso de uma base de dados de Cobertura de Arborização Urbana c
 
 - [UTB Dataset - GitHub]([https://github.com/usuario/UTB-Dataset](https://nkszjx.github.io/projects/UTB.html))
 
-Os arquivos de entrada utilizados nas análises deste projeto podem ser acessados e baixados através do seguinte link (ainda não ta completo):
+Os arquivos utilizados nas análises deste projeto podem ser acessados e baixados através do seguinte link:
 
 - [Grupo de Suporte Científico e Reportagens - Nicoly Ambrosion](https://drive.google.com/drive/folders/1G3AtjNxgz4qDBg2yRQWulnaxNG9BKE4Z?usp=drive_link)
-
-## Requisitos
-
-Para rodar o projeto, você precisará do R e de alguns pacotes específicos. Você pode instalar os pacotes necessários executando o seguinte código no R:
-
-```r
-install.packages(c("sf", "raster", "landscapemetrics", "patchwork", "tidyverse", "terra", "here"))
